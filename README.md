@@ -1,5 +1,5 @@
 
-# Take a look at this App 
+## Have a look at this App 
 
   https://pavan-social-media-app.netlify.app/
   
